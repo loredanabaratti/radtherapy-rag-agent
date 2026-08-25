@@ -1,0 +1,11 @@
+Title: External Beam Radiotherapy Planning Basics
+Source: IAEA - Radiotherapy Process
+URL: https://www.iaea.org/resources/hhc/medical-physics/radiotherapy/process
+
+External beam radiotherapy treatment planning aims to deliver a prescribed dose to a defined target volume while reducing exposure of surrounding healthy tissue and organs at risk.
+
+Modern planning is commonly based on CT imaging. CT data supports the delineation of target volumes and organs at risk. It also provides electron-density information that can be used by dose calculation algorithms to account for differences between tissue types.
+
+A treatment plan typically includes imaging, contouring, beam configuration, dose calculation, plan evaluation, verification, and clinical approval. Dose distributions can be reviewed visually with isodose lines and quantitatively with dose-volume histograms.
+
+This document is an educational technical summary for a RAG documentation. It is not intended for clinical treatment decisions.

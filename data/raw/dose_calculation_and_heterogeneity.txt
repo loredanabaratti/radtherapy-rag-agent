@@ -1,0 +1,11 @@
+Title: Dose Calculation and Tissue Heterogeneity
+Source: IAEA - Radiotherapy Process
+URL: https://www.iaea.org/resources/hhc/medical-physics/radiotherapy/process
+
+Dose calculation algorithms estimate the absorbed-dose distribution that would result from a radiotherapy treatment plan. Their accuracy is important because dose evaluation, plan optimization, and quality assurance depend on these estimates. 
+
+Patient anatomy is not homogeneous. Different tissues, such as lung, soft tissue, and bone, have different densities and radiation transport properties. Modern three-dimensional treatment planning therefore uses image information, commonly CT data, to model patient geometry and account for tissue heterogeneities. 
+
+Uncertainty can arise from imaging, contouring, patient positioning, machine modelling, dose calculation, and treatment delivery. Reliable radiotherapy requires quality assurance the entire treatment chain rather than considering dose calculation in isolation.
+
+This document is an educational technical summary for a RAG demonstration. It is not intended for clinical treatment decisions. 

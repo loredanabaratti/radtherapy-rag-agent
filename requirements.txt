@@ -1,0 +1,9 @@
+chromadb
+langchain-chroma
+langchain-core
+langchain-ollama
+langgraph  
+pydantic
+python-dotenv
+sentence-transformers
+pytest
