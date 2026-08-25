@@ -4,7 +4,7 @@ URL: https://www.iaea.org/resources/hhc/medical-physics/radiotherapy/process
 
 Intensity modulated radiotherapy, or IMRT, is an external beam radiotherapy technique that uses multiple radiation beams with spatially modulated intensity patterns. 
 
-In inverse planning, the planner defines clinical objectives and dose constraints for target volumes and organs at risk. An optimization algorithm thens searches for beam intensity patterns that balance these potentially competing objectives.
+In inverse planning, the planner defines clinical objectives and dose constraints for target volumes and organs at risk. An optimization algorithm then searches for beam intensity patterns that balance these potentially competing objectives.
 
 The goal is to achieve adequate dose coverage of the target while limiting unnecessary dose to neighbouring normal tissue. The resulting plan must still be evaluated, verified, and approved before treatment delivery. 
 

@@ -6,6 +6,6 @@ Dose calculation algorithms estimate the absorbed-dose distribution that would r
 
 Patient anatomy is not homogeneous. Different tissues, such as lung, soft tissue, and bone, have different densities and radiation transport properties. Modern three-dimensional treatment planning therefore uses image information, commonly CT data, to model patient geometry and account for tissue heterogeneities. 
 
-Uncertainty can arise from imaging, contouring, patient positioning, machine modelling, dose calculation, and treatment delivery. Reliable radiotherapy requires quality assurance the entire treatment chain rather than considering dose calculation in isolation.
+Uncertainty can arise from imaging, contouring, patient positioning, machine modelling, dose calculation, and treatment delivery. Reliable radiotherapy requires quality assurance across the entire treatment chain rather than considering dose calculation in isolation.
 
 This document is an educational technical summary for a RAG demonstration. It is not intended for clinical treatment decisions. 

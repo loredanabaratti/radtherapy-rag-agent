@@ -8,5 +8,5 @@ For a target volume, a DVH can indicate the proportion of the volume receiving a
 
 DVHs are useful for comparing alternative treatment plans, but they do not contain spatial information. A DVH alone cannot show which anatomical region within an organ receives a high or low dose. Therefore, DVHs should be interpreted together with the three-dimensional dose distribution and clinical context.
 
-This document is an educational technical summary for a RAG demonstration. It is not intended for clinical treatment decisicons. 
+This document is an educational technical summary for a RAG demonstration. It is not intended for clinical treatment decisions. 
 

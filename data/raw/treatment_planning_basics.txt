@@ -8,4 +8,4 @@ Modern planning is commonly based on CT imaging. CT data supports the delineatio
 
 A treatment plan typically includes imaging, contouring, beam configuration, dose calculation, plan evaluation, verification, and clinical approval. Dose distributions can be reviewed visually with isodose lines and quantitatively with dose-volume histograms.
 
-This document is an educational technical summary for a RAG documentation. It is not intended for clinical treatment decisions.
+This document is an educational technical summary for a RAG demonstration. It is not intended for clinical treatment decisions.
